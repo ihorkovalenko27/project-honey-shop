@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/project-honey-shop/static/css/main.a92fc410.css",
+    "main.js": "/project-honey-shop/static/js/main.084fb846.js",
+    "static/media/videoProduction.mp4": "/project-honey-shop/static/media/videoProduction.c3e94301328e9e72acdf.mp4",
+    "static/media/shop11.png": "/project-honey-shop/static/media/shop11.4b30a42d855aa6281a6e.png",
+    "static/media/bees.png": "/project-honey-shop/static/media/bees.597240a5c8b2b1093319.png",
+    "static/media/star.png": "/project-honey-shop/static/media/star.6b6eb5491399d43bd4cc.png",
+    "static/media/freshquality.png": "/project-honey-shop/static/media/freshquality.17642d03422cafbcad4b.png",
+    "static/media/honeylabeltext.png": "/project-honey-shop/static/media/honeylabeltext.8ac38bc1f6b1f089e8ac.png",
+    "static/media/honey-title.png": "/project-honey-shop/static/media/honey-title.1545932913a9ae3eb760.png",
+    "static/media/shop12.png": "/project-honey-shop/static/media/shop12.d3846e02380478c5b747.png",
+    "static/media/bootle-honey.jpg": "/project-honey-shop/static/media/bootle-honey.85bd6e244c2e7e88ec5f.jpg",
+    "static/media/info-bee.jpg": "/project-honey-shop/static/media/info-bee.334ac6a74a5a55dff981.jpg",
+    "static/media/play.svg": "/project-honey-shop/static/media/play.7d66369b5718cbb0df09158a71e0ef56.svg",
+    "static/media/eucalyptus.png": "/project-honey-shop/static/media/eucalyptus.b4334c84860b6af35e0b.png",
+    "static/media/honey-spoon.png": "/project-honey-shop/static/media/honey-spoon.dda7f75b93be83508a00.png",
+    "static/media/basswood.png": "/project-honey-shop/static/media/basswood.9abfc2c2c245beed1399.png",
+    "static/media/appstore.svg": "/project-honey-shop/static/media/appstore.4d453beceefa9104d192ac0436464403.svg",
+    "static/media/honeyfooter.svg": "/project-honey-shop/static/media/honeyfooter.d47d3b1c85ca3a8fc522716aa6be35da.svg",
+    "static/media/logo.svg": "/project-honey-shop/static/media/logo.5cf7be10a33c3c14bfa7f491671943cc.svg",
+    "static/media/twitter.svg": "/project-honey-shop/static/media/twitter.7a49f39f3fc912a20d790840d7ced5ea.svg",
+    "static/media/google.svg": "/project-honey-shop/static/media/google.533792ad0f7695af3fa3b1f1263dc2c5.svg",
+    "index.html": "/project-honey-shop/index.html",
+    "static/media/pine.svg": "/project-honey-shop/static/media/pine.782e3f92c1c0617b57a6a7292f4dcbf2.svg",
+    "static/media/facebook.svg": "/project-honey-shop/static/media/facebook.3958d374230b1392f9dbf790065e4a47.svg",
+    "main.a92fc410.css.map": "/project-honey-shop/static/css/main.a92fc410.css.map",
+    "main.084fb846.js.map": "/project-honey-shop/static/js/main.084fb846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92fc410.css",
+    "static/js/main.084fb846.js"
+  ]
+}
